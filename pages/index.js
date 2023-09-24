@@ -1,6 +1,6 @@
 function Home(){
     return <>
-    <h1>Amanda, eu te amo! Se você me ama dá uma risdinha! 😘😁</h1>
+    <h1>Amanda, eu te amo! Se você me ama dá uma risadinha! 😘😁</h1>
 
     <p>Quase sete anos se passaram desde que dissemos "sim" um ao outro, e a cada dia que passa, meu amor por você só cresce. É uma jornada que tem sido repleta de momentos maravilhosos, desafios superados e, acima de tudo, amor.</p>
     <p>Agora com a Mel, e vendo seu cuidado com ela, meu coração transborda de admiração e amor.</p>
