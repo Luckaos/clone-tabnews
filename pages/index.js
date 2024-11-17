@@ -18,10 +18,21 @@ function Home() {
         Mel e que possamos trilhar num caminho onde possamos alcaçar nossos
         sonhos e poder dar o melhor para ela.
       </p>
-      <br />
       <p>Com todo o meu amor,</p>
       <br />
       <p>Lucas Fabiano Rodolfo</p>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <p>
+        <sub>Página construída dia 23 de Setembro de 2023</sub>
+      </p>
     </>
   );
 }
